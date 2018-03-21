@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codilitytest1", "Codilitytest1\Codilitytest1.csproj", "{5E05901E-5072-49C2-B2FC-C5FCD9893A11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution", "Solution\Solution.csproj", "{86ED8203-45D8-4D9D-B25A-01901C6CA8C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryGrap", "BinaryGrap\BinaryGrap.csproj", "{EAF92D62-E2B1-4550-9E9B-C5D52DD4C6F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E05901E-5072-49C2-B2FC-C5FCD9893A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E05901E-5072-49C2-B2FC-C5FCD9893A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E05901E-5072-49C2-B2FC-C5FCD9893A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E05901E-5072-49C2-B2FC-C5FCD9893A11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86ED8203-45D8-4D9D-B25A-01901C6CA8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86ED8203-45D8-4D9D-B25A-01901C6CA8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86ED8203-45D8-4D9D-B25A-01901C6CA8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86ED8203-45D8-4D9D-B25A-01901C6CA8C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF92D62-E2B1-4550-9E9B-C5D52DD4C6F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF92D62-E2B1-4550-9E9B-C5D52DD4C6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF92D62-E2B1-4550-9E9B-C5D52DD4C6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF92D62-E2B1-4550-9E9B-C5D52DD4C6F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

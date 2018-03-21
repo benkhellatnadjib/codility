@@ -1,0 +1,8 @@
+c:\users\nadjib.benkhelat\documents\visual studio 2017\Projects\Codilitytest1\Codilitytest1\bin\Debug\Codilitytest1.exe.config
+c:\users\nadjib.benkhelat\documents\visual studio 2017\Projects\Codilitytest1\Codilitytest1\bin\Debug\Codilitytest1.exe
+c:\users\nadjib.benkhelat\documents\visual studio 2017\Projects\Codilitytest1\Codilitytest1\bin\Debug\Codilitytest1.pdb
+c:\users\nadjib.benkhelat\documents\visual studio 2017\Projects\Codilitytest1\Codilitytest1\obj\Debug\Codilitytest1.csprojResolveAssemblyReference.cache
+c:\users\nadjib.benkhelat\documents\visual studio 2017\Projects\Codilitytest1\Codilitytest1\obj\Debug\Codilitytest1.exe
+c:\users\nadjib.benkhelat\documents\visual studio 2017\Projects\Codilitytest1\Codilitytest1\obj\Debug\Codilitytest1.pdb
+c:\users\nadjib.benkhelat\documents\visual studio 2017\Projects\Codilitytest1\Codilitytest1\bin\Debug\BinaryGrap.dll
+c:\users\nadjib.benkhelat\documents\visual studio 2017\Projects\Codilitytest1\Codilitytest1\bin\Debug\BinaryGrap.pdb
